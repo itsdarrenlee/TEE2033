@@ -4,7 +4,9 @@
 import numpy as np
 from scipy.io import wavfile
 
-fs, data=wavfile.read("out.wav")
+(fs, data) = 0, 0
+
+(fs, data)=wavfile.read("out.wav")
 
 data1=data/max(data)*0.25
 
