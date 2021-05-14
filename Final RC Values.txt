@@ -1,0 +1,10 @@
+R1 5.83 ohm
+R2 2.3 ohm
+R3 4.46K
+
+R4 678 ohm
+R5 783 ohm
+R6 681 ohm
+
+50 pF left side
+2200 pF right side
